@@ -1,3 +1,3 @@
 ## cesium-demos
 
-Three.js 学习，练习 Demo.
+cesium 学习，练习 Demo.
