@@ -31,7 +31,15 @@ menus.value = [
     label: 'Cesium-Base',
     index: '1',
     children: [
-      { label: 'Entity 使用', index: '/base_01' }
+      { label: '添加图层', index: '/base_01' },
+      { label: '自定义矢量地图', index: '/base_01_a' },
+      { label: '添加地形', index: '/base_02' },
+      { label: '相机操控', index: '/base_03' },
+      { label: '时钟 Clock', index: '/base_04' },
+      { label: 'Entity', index: '/base_05' },
+      { label: 'CzmlDataSource', index: '/base_06' },
+      { label: 'GeoJsonDataSource', index: '/base_07' },
+      { label: 'KmlDataSource', index: '/base_08' }
     ]
   },
   {
